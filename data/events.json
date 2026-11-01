@@ -1,0 +1,10 @@
+{
+  "generated_at": null,
+  "source": "Ticketmaster Discovery API",
+  "center": "Nashville, TN",
+  "radius_miles": 30,
+  "nearby_radius_miles": 350,
+  "tracking_since": null,
+  "watchlist": [{"name": "Ed Sheeran", "found": null}, {"name": "Taylor Swift", "found": null}, {"name": "Coldplay", "found": null}, {"name": "Billie Eilish", "found": null}, {"name": "Olivia Rodrigo", "found": null}, {"name": "Sabrina Carpenter", "found": null}, {"name": "Bruno Mars", "found": null}, {"name": "The Weeknd", "found": null}, {"name": "Dua Lipa", "found": null}, {"name": "Harry Styles", "found": null}, {"name": "Adele", "found": null}, {"name": "Lady Gaga", "found": null}, {"name": "Ariana Grande", "found": null}, {"name": "Shawn Mendes", "found": null}, {"name": "Lewis Capaldi", "found": null}, {"name": "Imagine Dragons", "found": null}, {"name": "OneRepublic", "found": null}, {"name": "Maroon 5", "found": null}, {"name": "Post Malone", "found": null}, {"name": "Noah Kahan", "found": null}, {"name": "Benson Boone", "found": null}, {"name": "Hozier", "found": null}, {"name": "Chappell Roan", "found": null}, {"name": "Justin Bieber", "found": null}, {"name": "Charlie Puth", "found": null}],
+  "events": []
+}

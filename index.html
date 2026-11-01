@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nashville 演唱会追踪</title>
+  <meta name="description" content="追踪纳什维尔的演唱会，重点关注 Ed Sheeran 等欧美歌手的场次、开售时间和周边城市巡演。">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎸</text></svg>">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1>Nashville 演唱会追踪</h1>
+      <p class="meta" id="meta">加载中…</p>
+      <div id="notice"></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="watch-section" aria-labelledby="watch-title">
+      <div class="section-head">
+        <h2 id="watch-title">关注的歌手</h2>
+        <button class="link-btn" id="manage-local" type="button">＋ 本地关注</button>
+      </div>
+      <div id="watch-grid" class="watch-grid"></div>
+    </section>
+
+    <section id="events-section" aria-labelledby="events-title">
+      <div class="section-head">
+        <h2 id="events-title">演出</h2>
+        <span class="count" id="count"></span>
+      </div>
+      <div class="toolbar">
+        <div class="tabs" role="tablist" aria-label="视图">
+          <button role="tab" data-view="watch">关注</button>
+          <button role="tab" data-view="major">主要场馆</button>
+          <button role="tab" data-view="all">全部</button>
+        </div>
+        <input type="search" id="q" placeholder="搜索歌手、演出、场馆…" aria-label="搜索">
+        <select id="genre" aria-label="曲风"></select>
+        <select id="venue" aria-label="场馆"></select>
+        <select id="month" aria-label="月份"></select>
+        <label class="check"><input type="checkbox" id="nearby" checked> 含周边城市</label>
+      </div>
+      <div id="list" class="list" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>
+        数据来自 Ticketmaster，每天自动更新两次；可能遗漏未在 Ticketmaster 售票的演出，请以官方信息为准。
+        <span id="cal-link"></span>
+      </p>
+      <p>修改关注歌手：编辑仓库里的 <code>config.json</code>。</p>
+    </div>
+  </footer>
+
+  <dialog id="local-dialog">
+    <form method="dialog" class="dialog-body">
+      <h3>本地关注</h3>
+      <p class="hint">只保存在当前浏览器，用来在纳什维尔演出里高亮这些歌手。想收到新演出通知、看到周边城市场次，请把歌手加进仓库的 <code>config.json</code>。</p>
+      <div class="add-row">
+        <input id="local-input" placeholder="歌手英文名，如 Coldplay" autocomplete="off" aria-label="歌手名">
+        <button type="button" class="btn primary" id="local-add">添加</button>
+      </div>
+      <ul id="local-list" class="local-list"></ul>
+      <div class="dialog-actions"><button class="btn" value="close">完成</button></div>
+    </form>
+  </dialog>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

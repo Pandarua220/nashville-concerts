@@ -1,0 +1,61 @@
+{
+  "watchlist": [
+    "Ed Sheeran",
+    "Taylor Swift",
+    "Coldplay",
+    "Billie Eilish",
+    "Olivia Rodrigo",
+    "Sabrina Carpenter",
+    "Bruno Mars",
+    "The Weeknd",
+    "Dua Lipa",
+    "Harry Styles",
+    "Adele",
+    "Lady Gaga",
+    "Ariana Grande",
+    "Shawn Mendes",
+    "Lewis Capaldi",
+    "Imagine Dragons",
+    "OneRepublic",
+    "Maroon 5",
+    "Post Malone",
+    "Noah Kahan",
+    "Benson Boone",
+    "Hozier",
+    "Chappell Roan",
+    "Justin Bieber",
+    "Charlie Puth"
+  ],
+
+  "center": { "name": "Nashville, TN", "lat": 36.1627, "lon": -86.7816 },
+  "radius_miles": 30,
+  "nearby_radius_miles": 350,
+  "months_ahead": 12,
+
+  "major_venues": [
+    "Bridgestone Arena",
+    "Nissan Stadium",
+    "GEODIS Park",
+    "Ascend Amphitheater",
+    "FirstBank Amphitheater",
+    "Ryman Auditorium",
+    "Municipal Auditorium",
+    "The Pinnacle",
+    "Schermerhorn Symphony Center",
+    "Brooklyn Bowl",
+    "Marathon Music Works"
+  ],
+
+  "exclude_name_patterns": [
+    "parking",
+    "shuttle",
+    "vip package",
+    "vip packages",
+    "upgrade",
+    "suite rental",
+    "tailgate",
+    "gift card"
+  ],
+
+  "manual_events": []
+}
