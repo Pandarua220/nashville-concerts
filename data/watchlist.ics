@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//nashville-concerts//watchlist//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nashville 关注歌手演出
+X-WR-TIMEZONE:America/Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:vvG1zZ_aUW2Ij5@nashville-concerts
+DTSTAMP:20261031T000000Z
+DTSTART:20261112T000000Z
+DTEND:20261112T030000Z
+SUMMARY:Olivia Rodrigo: The Unraveled Tour
+LOCATION:State Farm Arena\, Atlanta\, GA
+URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-atlanta-
+ georgia-11-11-2026/event/0E00649DBD3E870B
+DESCRIPTION:关注：Olivia Rodrigo\n购票：https://www.ticketmaster.com/
+ olivia-rodrigo-the-unraveled-tour-atlanta-georgia-11-11-2026/event/0E00649
+ DBD3E870B
+END:VEVENT
+BEGIN:VEVENT
+UID:vvG1zZ_aUW8bjb@nashville-concerts
+DTSTAMP:20261031T000000Z
+DTSTART:20261113T000000Z
+DTEND:20261113T030000Z
+SUMMARY:Olivia Rodrigo: The Unraveled Tour
+LOCATION:State Farm Arena\, Atlanta\, GA
+URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-atlanta-
+ georgia-11-12-2026/event/0E00649DBD418718
+DESCRIPTION:关注：Olivia Rodrigo\n购票：https://www.ticketmaster.com/
+ olivia-rodrigo-the-unraveled-tour-atlanta-georgia-11-12-2026/event/0E00649
+ DBD418718
+END:VEVENT
+BEGIN:VEVENT
+UID:G5viZ_aVuIQeO@nashville-concerts
+DTSTAMP:20261031T000000Z
+DTSTART:20261124T010000Z
+DTEND:20261124T040000Z
+SUMMARY:Olivia Rodrigo: The Unraveled Tour
+LOCATION:Bridgestone Arena\, Nashville\, TN
+URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-nashvill
+ e-tennessee-11-23-2026/event/1B00649D0DA1A0A0
+DESCRIPTION:关注：Olivia Rodrigo\n购票：https://www.ticketmaster.com/
+ olivia-rodrigo-the-unraveled-tour-nashville-tennessee-11-23-2026/event/1B0
+ 0649D0DA1A0A0
+END:VEVENT
+BEGIN:VEVENT
+UID:G5viZ_aVCEBGH@nashville-concerts
+DTSTAMP:20261031T000000Z
+DTSTART:20261125T010000Z
+DTEND:20261125T040000Z
+SUMMARY:Olivia Rodrigo: The Unraveled Tour
+LOCATION:Bridgestone Arena\, Nashville\, TN
+URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-nashvill
+ e-tennessee-11-24-2026/event/1B00649D0E9FA33C
+DESCRIPTION:关注：Olivia Rodrigo\n购票：https://www.ticketmaster.com/
+ olivia-rodrigo-the-unraveled-tour-nashville-tennessee-11-24-2026/event/1B0
+ 0649D0E9FA33C
+END:VEVENT
+BEGIN:VEVENT
+UID:G5viZ_KL9Hgzz@nashville-concerts
+DTSTAMP:20261031T000000Z
+DTSTART:20261218T013000Z
+DTEND:20261218T043000Z
+SUMMARY:107.5 The River's Jingle Ball Presented by Capital One
+LOCATION:Bridgestone Arena\, Nashville\, TN
+URL:https://www.ticketmaster.com/1075-the-rivers-jingle-ball-presented-nash
+ ville-tennessee-12-17-2026/event/1B006537D7F35E38
+DESCRIPTION:关注：OneRepublic\n购票：https://www.ticketmaster.com/107
+ 5-the-rivers-jingle-ball-presented-nashville-tennessee-12-17-2026/event/1B
+ 006537D7F35E38
+END:VEVENT
+BEGIN:VEVENT
+UID:vvG1zZ_4UFuPuT@nashville-concerts
+DTSTAMP:20261031T000000Z
+DTSTART:20270424T223000Z
+DTEND:20270425T013000Z
+SUMMARY:Noah Kahan: The Last Of The Bugs World Tour
+LOCATION:Sanford Stadium\, Athens\, GA
+URL:http://georgiadogs.evenue.net/events/NK
+DESCRIPTION:关注：Noah Kahan\n开售：11-12 11:00（纳什维尔时间
+ ）\n购票：http://georgiadogs.evenue.net/events/NK
+END:VEVENT
+BEGIN:VEVENT
+UID:1AeZZ_4GkwloeXg@nashville-concerts
+DTSTAMP:20261031T000000Z
+DTSTART:20270427T233000Z
+DTEND:20270428T023000Z
+SUMMARY:Noah Kahan: The Last Of The Bugs World Tour
+LOCATION:Protective Stadium\, Birmingham\, AL
+URL:https://www.ticketmaster.com/noah-kahan-the-last-of-the-birmingham-alab
+ ama-04-27-2027/event/2000655CAB442FB5
+DESCRIPTION:关注：Noah Kahan\n开售：11-12 12:00（纳什维尔时间
+ ）\n购票：https://www.ticketmaster.com/noah-kahan-the-last-of-the-birm
+ ingham-alabama-04-27-2027/event/2000655CAB442FB5
+END:VEVENT
+BEGIN:VEVENT
+UID:G5viZ_4gBifJr@nashville-concerts
+DTSTAMP:20261031T000000Z
+DTSTART:20270504T233000Z
+DTEND:20270505T023000Z
+SUMMARY:Noah Kahan: The Last Of The Bugs World Tour
+LOCATION:Nissan Stadium\, Nashville\, TN
+URL:https://seatgeek.com/noah-kahan-tickets/nashville-tennessee-nissan-stad
+ ium-2027-05-04-6-30-pm/concert/18723384
+DESCRIPTION:关注：Noah Kahan\n开售：11-12 12:00（纳什维尔时间
+ ）\n购票：https://seatgeek.com/noah-kahan-tickets/nashville-tennessee-
+ nissan-stadium-2027-05-04-6-30-pm/concert/18723384
+END:VEVENT
+BEGIN:VEVENT
+UID:G5eVZ_4R3uqrt@nashville-concerts
+DTSTAMP:20261031T000000Z
+DTSTART:20270506T223000Z
+DTEND:20270507T013000Z
+SUMMARY:Noah Kahan: The Last Of The Bugs World Tour
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+URL:https://www.ticketmaster.com/noah-kahan-the-last-of-the-charlotte-north
+ -carolina-05-06-2027/event/2D00655BD235D7A9
+DESCRIPTION:关注：Noah Kahan\n开售：11-12 11:00（纳什维尔时间
+ ）\n购票：https://www.ticketmaster.com/noah-kahan-the-last-of-the-char
+ lotte-north-carolina-05-06-2027/event/2D00655BD235D7A9
+END:VEVENT
+BEGIN:VEVENT
+UID:vvG1zZ_3NnLpPu@nashville-concerts
+DTSTAMP:20261031T000000Z
+DTSTART:20270521T234500Z
+DTEND:20270522T024500Z
+SUMMARY:Harry Styles: Together\, Together
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+URL:https://www.ticketmaster.com/harry-styles-together-together-atlanta-geo
+ rgia-05-21-2027/event/0E006528EA7D694D
+DESCRIPTION:关注：Harry Styles\n购票：https://www.ticketmaster.com/ha
+ rry-styles-together-together-atlanta-georgia-05-21-2027/event/0E006528EA7D
+ 694D
+END:VEVENT
+BEGIN:VEVENT
+UID:vvG1zZ_3Ef8eQn@nashville-concerts
+DTSTAMP:20261031T000000Z
+DTSTART:20270522T234500Z
+DTEND:20270523T024500Z
+SUMMARY:Harry Styles: Together\, Together
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+URL:https://www.ticketmaster.com/harry-styles-together-together-atlanta-geo
+ rgia-05-22-2027/event/0E006529D44026AA
+DESCRIPTION:关注：Harry Styles\n购票：https://www.ticketmaster.com/ha
+ rry-styles-together-together-atlanta-georgia-05-22-2027/event/0E006529D440
+ 26AA
+END:VEVENT
+BEGIN:VEVENT
+UID:vv17fZ_4GkSHkqmO@nashville-concerts
+DTSTAMP:20261031T000000Z
+DTSTART:20270605T223000Z
+DTEND:20270606T013000Z
+SUMMARY:Noah Kahan: The Last Of The Bugs World Tour
+LOCATION:Ohio Stadium\, Columbus\, OH
+URL:https://www.ticketmaster.com/noah-kahan-the-last-of-the-columbus-ohio-0
+ 6-05-2027/event/0500655CFC19DBA0
+DESCRIPTION:关注：Noah Kahan\n开售：11-12 11:00（纳什维尔时间
+ ）\n购票：https://www.ticketmaster.com/noah-kahan-the-last-of-the-colu
+ mbus-ohio-06-05-2027/event/0500655CFC19DBA0
+END:VEVENT
+END:VCALENDAR
