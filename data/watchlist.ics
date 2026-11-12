@@ -8,19 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:vvG1zZ_aUW2Ij5@nashville-concerts
-DTSTAMP:20261031T000000Z
-DTSTART:20261112T000000Z
-DTEND:20261112T030000Z
-SUMMARY:Olivia Rodrigo: The Unraveled Tour
-LOCATION:State Farm Arena\, Atlanta\, GA
-URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-atlanta-
- georgia-11-11-2026/event/0E00649DBD3E870B
-DESCRIPTION:关注：Olivia Rodrigo\n购票：https://www.ticketmaster.com/
- olivia-rodrigo-the-unraveled-tour-atlanta-georgia-11-11-2026/event/0E00649
- DBD3E870B
-END:VEVENT
-BEGIN:VEVENT
 UID:vvG1zZ_aUW8bjb@nashville-concerts
 DTSTAMP:20261031T000000Z
 DTSTART:20261113T000000Z
