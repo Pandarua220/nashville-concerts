@@ -60,6 +60,17 @@ DESCRIPTION:关注：OneRepublic\n购票：https://www.ticketmaster.com/107
  006537D7F35E38
 END:VEVENT
 BEGIN:VEVENT
+UID:Z7r9jZ1AA7wGt@nashville-concerts
+DTSTAMP:20261112T000000Z
+DTSTART:20270424T223000Z
+DTEND:20270425T013000Z
+SUMMARY:Noah Kahan
+LOCATION:Sanford Stadium\, Athens\, GA
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AA7wGt
+DESCRIPTION:关注：Noah Kahan\n购票：https://www.ticketmaster.com/even
+ t/Z7r9jZ1AA7wGt
+END:VEVENT
+BEGIN:VEVENT
 UID:vvG1zZ_4UFuPuT@nashville-concerts
 DTSTAMP:20261031T000000Z
 DTSTART:20270424T223000Z
@@ -67,8 +78,8 @@ DTEND:20270425T013000Z
 SUMMARY:Noah Kahan: The Last Of The Bugs World Tour
 LOCATION:Sanford Stadium\, Athens\, GA
 URL:http://georgiadogs.evenue.net/events/NK
-DESCRIPTION:关注：Noah Kahan\n开售：11-12 11:00（纳什维尔时间
- ）\n购票：http://georgiadogs.evenue.net/events/NK
+DESCRIPTION:关注：Noah Kahan\n购票：http://georgiadogs.evenue.net/eve
+ nts/NK
 END:VEVENT
 BEGIN:VEVENT
 UID:1AeZZ_4GkwloeXg@nashville-concerts
@@ -79,9 +90,20 @@ SUMMARY:Noah Kahan: The Last Of The Bugs World Tour
 LOCATION:Protective Stadium\, Birmingham\, AL
 URL:https://www.ticketmaster.com/noah-kahan-the-last-of-the-birmingham-alab
  ama-04-27-2027/event/2000655CAB442FB5
-DESCRIPTION:关注：Noah Kahan\n开售：11-12 12:00（纳什维尔时间
- ）\n购票：https://www.ticketmaster.com/noah-kahan-the-last-of-the-birm
- ingham-alabama-04-27-2027/event/2000655CAB442FB5
+DESCRIPTION:关注：Noah Kahan\n购票：https://www.ticketmaster.com/noah
+ -kahan-the-last-of-the-birmingham-alabama-04-27-2027/event/2000655CAB442FB
+ 5
+END:VEVENT
+BEGIN:VEVENT
+UID:Z7r9jZ1AA7wuk@nashville-concerts
+DTSTAMP:20261112T000000Z
+DTSTART:20270504T233000Z
+DTEND:20270505T023000Z
+SUMMARY:Noah Kahan
+LOCATION:New Nissan Stadium\, Nashville\, TN
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AA7wuk
+DESCRIPTION:关注：Noah Kahan\n购票：https://www.ticketmaster.com/even
+ t/Z7r9jZ1AA7wuk
 END:VEVENT
 BEGIN:VEVENT
 UID:G5viZ_4gBifJr@nashville-concerts
@@ -92,9 +114,9 @@ SUMMARY:Noah Kahan: The Last Of The Bugs World Tour
 LOCATION:Nissan Stadium\, Nashville\, TN
 URL:https://seatgeek.com/noah-kahan-tickets/nashville-tennessee-nissan-stad
  ium-2027-05-04-6-30-pm/concert/18723384
-DESCRIPTION:关注：Noah Kahan\n开售：11-12 12:00（纳什维尔时间
- ）\n购票：https://seatgeek.com/noah-kahan-tickets/nashville-tennessee-
- nissan-stadium-2027-05-04-6-30-pm/concert/18723384
+DESCRIPTION:关注：Noah Kahan\n购票：https://seatgeek.com/noah-kahan-t
+ ickets/nashville-tennessee-nissan-stadium-2027-05-04-6-30-pm/concert/18723
+ 384
 END:VEVENT
 BEGIN:VEVENT
 UID:G5eVZ_4R3uqrt@nashville-concerts
@@ -105,9 +127,9 @@ SUMMARY:Noah Kahan: The Last Of The Bugs World Tour
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 URL:https://www.ticketmaster.com/noah-kahan-the-last-of-the-charlotte-north
  -carolina-05-06-2027/event/2D00655BD235D7A9
-DESCRIPTION:关注：Noah Kahan\n开售：11-12 11:00（纳什维尔时间
- ）\n购票：https://www.ticketmaster.com/noah-kahan-the-last-of-the-char
- lotte-north-carolina-05-06-2027/event/2D00655BD235D7A9
+DESCRIPTION:关注：Noah Kahan\n购票：https://www.ticketmaster.com/noah
+ -kahan-the-last-of-the-charlotte-north-carolina-05-06-2027/event/2D00655BD
+ 235D7A9
 END:VEVENT
 BEGIN:VEVENT
 UID:vvG1zZ_3NnLpPu@nashville-concerts
@@ -144,8 +166,7 @@ SUMMARY:Noah Kahan: The Last Of The Bugs World Tour
 LOCATION:Ohio Stadium\, Columbus\, OH
 URL:https://www.ticketmaster.com/noah-kahan-the-last-of-the-columbus-ohio-0
  6-05-2027/event/0500655CFC19DBA0
-DESCRIPTION:关注：Noah Kahan\n开售：11-12 11:00（纳什维尔时间
- ）\n购票：https://www.ticketmaster.com/noah-kahan-the-last-of-the-colu
- mbus-ohio-06-05-2027/event/0500655CFC19DBA0
+DESCRIPTION:关注：Noah Kahan\n购票：https://www.ticketmaster.com/noah
+ -kahan-the-last-of-the-columbus-ohio-06-05-2027/event/0500655CFC19DBA0
 END:VEVENT
 END:VCALENDAR
