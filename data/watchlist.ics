@@ -8,19 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:G5viZ_aVuIQeO@nashville-concerts
-DTSTAMP:20261031T000000Z
-DTSTART:20261124T010000Z
-DTEND:20261124T040000Z
-SUMMARY:Olivia Rodrigo: The Unraveled Tour
-LOCATION:Bridgestone Arena\, Nashville\, TN
-URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-nashvill
- e-tennessee-11-23-2026/event/1B00649D0DA1A0A0
-DESCRIPTION:关注：Olivia Rodrigo\n购票：https://www.ticketmaster.com/
- olivia-rodrigo-the-unraveled-tour-nashville-tennessee-11-23-2026/event/1B0
- 0649D0DA1A0A0
-END:VEVENT
-BEGIN:VEVENT
 UID:G5viZ_aVCEBGH@nashville-concerts
 DTSTAMP:20261031T000000Z
 DTSTART:20261125T010000Z
